@@ -1,0 +1,13 @@
+{
+    "image_sizes": [
+        65,
+        100,
+        300,
+        400,
+        600,
+        1000
+    ],
+    "bundle_image_filetype": "jpg",
+    "erode_size": 3,
+    "bottom_border": 50
+}

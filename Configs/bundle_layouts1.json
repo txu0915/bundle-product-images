@@ -1,0 +1,36 @@
+[
+    {
+        "bundle_type": "kitchen",
+
+        "bundle_layers": [
+            {
+                "productType": "Ranges",
+
+                "ulx": 0.100,
+                "uly": 0.257,
+                "w": 0.322
+            },
+            {
+                "productType": "Refrigerator",
+
+                "ulx": 0.362,
+                "uly": 0.070,
+                "w": 0.372
+            },
+            {
+                "productType": "Dishwashers",
+
+                "ulx": 0.633,
+                "uly": 0.490,
+                "w": 0.303
+            },
+            {
+                "productType": "Microwaves",
+
+                "ulx": 0.067,
+                "uly": 0.700,
+                "w": 0.422
+            }
+        ]
+    }
+]
